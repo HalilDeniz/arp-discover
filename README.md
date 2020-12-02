@@ -2,7 +2,7 @@
 ARP discovery tool written in python and scapy.
 
 
-## Instalation
+## Installation
 1. Install scapy<br/>
 ```bash
 sudo apt install python3-scapy
