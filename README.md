@@ -10,9 +10,18 @@ sudo apt install python3-scapy
 2. clone the repository
 ```bash
 git clone https://github.com/gsv-gh/arp-discover.git
-```
 
-3. Run
+cd arp-discover
+```
+3. Install requirements
+```bash
+sudo pip3 install requirements.txt
+```
+4. Set permissions
+```bash
+chmod u+x arp-discover.py
+```
+5. Run
 ```bash
 sudo ./arp-discover.py
 ```
