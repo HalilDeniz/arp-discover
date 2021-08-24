@@ -9,7 +9,7 @@ sudo apt install python3-scapy
 ```
 2. clone the repository
 ```bash
-git clone https://github.com/gsv-gh/arp-discover.git
+git clone https://github.com/user-at-host/arp-discover.git
 
 cd arp-discover
 ```
